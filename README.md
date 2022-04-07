@@ -1,0 +1,2 @@
+# Shared-Wallet
+Ethereum wallet
